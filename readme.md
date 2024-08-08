@@ -24,6 +24,7 @@ To use this repository, follow these steps:
 
 ## Citation
 When using this paper or code, please use:
+   ```bash
     @article{you_2024_anomaly_prediction,
     title={Anomaly Prediction: A Novel Approach with Explicit Delay and Horizon},
     author={Jiang You and Arben Cela and René Natowicz and Jacob Ouanounou and Patrick Siarry},
