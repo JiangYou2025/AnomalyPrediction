@@ -22,6 +22,12 @@ To use this repository, follow these steps:
    git clone https://github.com/JiangYou2025/AnomalyPrediction.git
 
 
+## Citation
+When using this paper or code, please use:
 
-
-
+@article{you_2024_anomaly_prediction,
+  title={Anomaly Prediction: A Novel Approach with Explicit Delay and Horizon},
+  author={Jiang You and Arben Cela and René Natowicz and Jacob Ouanounou and Patrick Siarry},
+  journal={arXiv preprint [arXiv:submit/5781099/](https://arxiv.org/submit/5781099/view)},
+  year={2024},
+}
