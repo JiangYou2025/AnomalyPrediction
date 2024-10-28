@@ -2,6 +2,8 @@
 # Prédiction d'Anomalies : Une Nouvelle Approche avec Délai et Horizon Explicites
 Ceci est le dépôt officiel pour l'article "Prédiction d'Anomalies : Une Nouvelle Approche avec Délai et Horizon Explicites"
 
+[🇨🇳 简体中文](./readme/readme_zh.md) | [🇬🇧 English](./readme/readme.md) | [🇫🇷 Français](./readme/readme_fr.md) | [🇩🇪 Deutsch](./readme/readme_de.md) | [🇷🇴 Română](./readme/readme_ro.md)
+
 Lien vers l'article : https://arxiv.org/abs/2408.04377
 
 ## Résumé
