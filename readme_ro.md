@@ -1,7 +1,7 @@
 # Predicția Anomaliilor: O Nouă Abordare cu Întârziere și Orizont Explicite
 Acesta este depozitul oficial pentru lucrarea „Predicția Anomaliilor: O Nouă Abordare cu Întârziere și Orizont Explicite”
 
-[🇨🇳 简体中文](./readme/readme_zh.md) | [🇬🇧 English](./readme/readme.md) | [🇫🇷 Français](./readme/readme_fr.md) | [🇩🇪 Deutsch](./readme/readme_de.md) | [🇷🇴 Română](./readme/readme_ro.md)
+[🇨🇳 简体中文](./readme_zh.md) | [🇬🇧 English](./readme.md) | [🇫🇷 Français](./readme_fr.md) | [🇩🇪 Deutsch](./readme_de.md) | [🇷🇴 Română](./readme_ro.md)
 
 Link către lucrare: https://arxiv.org/abs/2408.04377
 
