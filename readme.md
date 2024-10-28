@@ -2,7 +2,7 @@
 # Anomaly Prediction: A Novel Approach with Explicit Delay and Horizon
 This is the official repository for the paper "Anomaly Prediction: A Novel Approach with Explicit Delay and Horizon" 
 
-[简体中文](./readme_zh.md) [English](./readme.md) [Français](./readme_fr.md) [Germany](./readme_de.md) [Romanie](./readme_ro.md)
+[🇨🇳 简体中文](./readme/readme_zh.md) | [🇬🇧 English](./readme/readme.md) | [🇫🇷 Français](./readme/readme_fr.md) | [🇩🇪 Deutsch](./readme/readme_de.md) | [🇷🇴 Română](./readme/readme_ro.md)
 
 Link to paper : https://arxiv.org/abs/2408.04377
 
@@ -48,7 +48,7 @@ When using this paper or code, please use:
    ```tex
    @inproceedings{you_2024_anomaly_prediction,
    author={You, Jiang and Cela, Arben and Natowicz, René and Ouanounou, Jacob and Siarry, Patrick},
-   booktitle={2024 IEEE 20th International Conference on Intelligent Computer Communication and Processing (INISTA)}, 
+   booktitle={2024 IEEE 20th International Conference on Intelligent Computer Communication and Processing (ICCP)}, 
    title={Anomaly Prediction: A Novel Approach with Explicit Delay and Horizon},
    year={2024},
    volume={},

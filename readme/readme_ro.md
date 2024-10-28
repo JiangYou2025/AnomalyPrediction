@@ -46,7 +46,7 @@ Când utilizați această lucrare sau codul, vă rugăm să folosiți următoare
    ```tex
    @inproceedings{you_2024_anomaly_prediction,
    author={You, Jiang and Cela, Arben and Natowicz, René and Ouanounou, Jacob and Siarry, Patrick},
-   booktitle={2024 IEEE 20th International Conference on Intelligent Computer Communication and Processing (INISTA)}, 
+   booktitle={2024 IEEE 20th International Conference on Intelligent Computer Communication and Processing (ICCP)}, 
    title={Anomaly Prediction: A Novel Approach with Explicit Delay and Horizon},
    year={2024},
    volume={},
