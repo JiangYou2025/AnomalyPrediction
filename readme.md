@@ -2,7 +2,7 @@
 # Anomaly Prediction: A Novel Approach with Explicit Delay and Horizon
 This is the official repository for the paper "Anomaly Prediction: A Novel Approach with Explicit Delay and Horizon" 
 
-[🇨🇳 简体中文](./readme/readme_zh.md) | [🇬🇧 English](./readme/readme.md) | [🇫🇷 Français](./readme/readme_fr.md) | [🇩🇪 Deutsch](./readme/readme_de.md) | [🇷🇴 Română](./readme/readme_ro.md)
+[:flag_cn: 简体中文](./readme/readme_zh.md) | [:flag_gb:](./readme.md) | [:flag_fr: Français](./readme/readme_fr.md) | [:flag_de: Deutsch](./readme/readme_de.md) | [:flag_ro: Română](./readme/readme_ro.md)
 
 Link to paper : https://arxiv.org/abs/2408.04377
 
