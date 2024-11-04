@@ -35,6 +35,7 @@ To use the anomaly_prediction library, follow these steps:
    pip install anomaly-prediction
 
 2. Open the python editor:
+   ```bash
    python
 
 3. Import the anomaly_prediction library:
