@@ -73,18 +73,3 @@ When using this paper or code, please use:
    keywords={Time series;Anomaly Prediction;Anomaly Detection;U-Net;Transformers;},
    url={https://arxiv.org/abs/2408.04377}}
    ```
-
-
-## Citation
-When using this paper or code, please use:
-   ```bash
-    @article{you_2024_anomaly_prediction,
-        title={Anomaly Prediction: A Novel Approach with Explicit Delay and Horizon},
-        author={You, Jiang and Cela, Arben and Natowicz, René and Ouanounou, Jacob and Siarry, Patrick},
-        journal={arXiv preprint arXiv:submit/5781099},
-        year={2024},
-        url={https://arxiv.org/abs/2408.04377}
-    }
->>>>>>> parent of ce088db (update 10 28)
-
-
