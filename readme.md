@@ -25,9 +25,22 @@ To use this repository, follow these steps:
    ```bash
    git clone https://github.com/JiangYou2025/AnomalyPrediction.git
 
-1. Open the Anomaly_Prediction_Examples.ipynb:
+2. Open the Anomaly_Prediction_Examples.ipynb:
    ```bash
    run all
+
+To use the anomaly_prediction library, follow these steps:
+1. Open the anaconda, enter the environment "base":
+   ```bash
+   pip install anomaly-prediction
+
+2. Open the python editor:
+   python
+
+3. Import the anomaly_prediction library:
+   ```bash
+   from anomaly_prediction import *
+   print(anomaly_prediction.__version__)
 
 ## Examples
 
