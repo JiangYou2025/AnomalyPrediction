@@ -10,11 +10,11 @@ Lien vers l'article : https://arxiv.org/abs/2408.04377
 La détection d'anomalies dans les données de séries temporelles est un défi critique dans de nombreux domaines. Les méthodes traditionnelles se concentrent généralement sur l'identification des anomalies aux étapes suivantes immédiates, sous-estimant souvent l'importance de la dynamique temporelle comme le temps de délai et l'horizon des anomalies, qui nécessitent généralement une analyse postérieure extensive. Ce dépôt introduit une nouvelle approche de prédiction d'anomalies dans les séries temporelles, intégrant les informations temporelles directement dans les résultats de prédiction. Nous proposons un nouveau jeu de données conçu spécifiquement pour évaluer cette approche et menons des expériences complètes en utilisant plusieurs méthodes de pointe. Nos résultats démontrent l'efficacité de notre approche pour fournir des prédictions d'anomalies précises et en temps opportun, établissant ainsi une nouvelle référence pour les recherches futures dans ce domaine.
 
 ## Prédiction d'Anomalies avec Délai et Horizon Explicites
-![Prédiction d'Anomalies](./src/figure/anomaly_prediction.png)
+![Prédiction d'Anomalies](./figure/anomaly_prediction.png)
 *Figure 1 : Illustration de la tâche de Prédiction d'Anomalies.*
 
 ## Comparaison entre la Prédiction et la Détection d'Anomalies
-![Comparaison](./src/figure/comparison_ad_ap.png)
+![Comparaison](./figure/comparison_ad_ap.png)
 *Figure 2 : Comparaison entre la Prédiction et la Détection d'Anomalies.*
 
 ## Utilisation
@@ -33,15 +33,15 @@ Pour utiliser ce dépôt, suivez ces étapes :
 ## Exemples
 
 #### Exemple de Prédiction d'Anomalies sur le Jeu de Données Synthétique 1 avec le Réseau Complètement Connecté (FCN)
-![Comparaison](./src/figure/synthetical_1_test_prediction_example_1.png)
-![Comparaison](./src/figure/synthetical_1_test_prediction_example_2.png)
-![Comparaison](./src/figure/synthetical_1_test_prediction_example_3.png)
+![Comparaison](./figure/synthetical_1_test_prediction_example_1.png)
+![Comparaison](./figure/synthetical_1_test_prediction_example_2.png)
+![Comparaison](./figure/synthetical_1_test_prediction_example_3.png)
 *Figure 3 : Exemples 1-9 de Prédiction d'Anomalies sur Synthetical_1.*
 
 #### Exemple de Prédiction d'Anomalies sur le Jeu de Données Synthétique 10 avec le Réseau Complètement Connecté (FCN)
-![Comparaison](./src/figure/synthetical_10_test_prediction_example_1.png)
-![Comparaison](./src/figure/synthetical_10_test_prediction_example_2.png)
-![Comparaison](./src/figure/synthetical_10_test_prediction_example_3.png)
+![Comparaison](./figure/synthetical_10_test_prediction_example_1.png)
+![Comparaison](./figure/synthetical_10_test_prediction_example_2.png)
+![Comparaison](./figure/synthetical_10_test_prediction_example_3.png)
 *Figure 4 : Exemples 1-9 de Prédiction d'Anomalies sur Synthetical_10.*
 
 ## Citation
