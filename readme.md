@@ -25,7 +25,7 @@ To use this repository, follow these steps:
    ```bash
    git clone https://github.com/JiangYou2025/AnomalyPrediction.git
 
-<<<<<<< HEAD
+
 2. Open the Anomaly_Prediction_Examples.ipynb:
    ```bash
    run all
@@ -73,7 +73,7 @@ When using this paper or code, please use:
    keywords={Time series;Anomaly Prediction;Anomaly Detection;U-Net;Transformers;},
    url={https://arxiv.org/abs/2408.04377}}
    ```
-=======
+
 
 ## Citation
 When using this paper or code, please use:
